@@ -1,0 +1,6 @@
+{
+    "http": "http",
+    "ip": "10.0.1.101",
+    "port": "8081",
+    "repository":"e:\\arcgis_js_api"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "arcgis_js_api",
+  "version": "1.0.0",
+  "description": "arcgis js api and sdk",
+  "main": "index.js",
+  "repository": "https://github.com/laianliu/arcgis_js_api.git",
+  "author": "liulaian <704328204@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
